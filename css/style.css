@@ -1,0 +1,351 @@
+*
+{
+ font-family: Times New Roman;
+
+
+}
+p
+{
+
+
+font-size: 20px;
+
+}
+body
+{
+ 
+
+
+
+
+margin: 0px;
+background: #E6E6FA;
+ 
+
+ 
+}
+header
+{
+width: auto; height: auto; float: left;
+
+padding: 0px;
+border-bottom: 1px solid;
+
+
+
+
+
+
+}
+ 
+
+
+
+ 
+header .top-head
+{
+width: auto; 
+height: auto; 
+float: left;
+margin: 0px 0px 0px 20%;
+}
+header .img-class
+{
+width: auto; 
+height: auto; 
+float: left;
+}
+header .img-class img
+{
+width: 150px; height: 150px; float: left;
+}
+
+header h1
+{
+width: 800px; height: auto; float: left; color: #000;
+}
+header .top-header
+{
+width: auto; height: auto; float: left;
+}
+header .top-header nav
+{
+width: auto; height: auto; float: left;
+}
+header .top-header nav ul
+{
+width: auto; height: auto; float: left;
+list-style-type: none; margin: 0px;
+}
+header .top-header ul li
+{
+font-size: 20px; margin-left: 15px; float: left;
+}
+header .top-header ul li a
+{
+display: block; color: #000;
+text-align: center; padding: 14px 16px; text-decoration: none;
+}
+
+/*Header End*/
+/*main Start*/ section
+{
+width: auto; height: auto; float: left;
+}
+.container
+{
+width: auto; height: auto;
+padding: 0px 150px 0px 150px;
+/*font-size: 40px;*/
+}
+.container .title
+{
+font-family: arial; 
+font-size: 25px; 
+padding: 0px 26% 0px 25%; 
+text-align: center;
+}
+.container .detail
+{
+ font-size: 15px; text-align: justify; font-family: arial;
+
+
+
+}
+.ug
+{
+margin: 0px 25% 0px 25%;
+}
+
+.ug table
+{
+	border: 1px solid; font-size: 15px; font-family: arial; float: left;
+}
+.ug table th
+{
+border: 1px solid;
+}
+/*Main End*/
+/*Footer Start*/ footer
+{
+width: auto; height: auto; float: left;
+margin-top: 15px;
+}
+footer .space
+{
+border-top: 1px solid;
+}
+footer .fo
+{
+width: auto; height: auto; float: left;
+margin-left: 250px;
+}
+footer .fo .f1
+{
+width: 25%;
+height: 25%; float: left;
+text-align: justify;
+}
+footer .fo .f1 h1
+{
+font-size: 25px;
+border-bottom: 1px solid;
+}
+footer .fo .f1 p
+{
+font-family: arial; font-size: 15px;
+}
+
+footer .fo .f2
+
+
+
+{
+width: 15%;
+height: 25%; float: left;
+margin-left: 40%;
+}
+footer .fo .f2 h1
+{
+font-size: 25px;
+border-bottom: 1px solid;
+}
+footer .fo .f2 ul
+{
+list-style-type: none; margin: 0px; padding: 0px;
+}
+footer .fo .f2 ul li
+{
+font-size: 15px; margin-top: 5px; padding: 0px;
+}
+footer .fo .f2 ul li a
+{
+color: #000;
+text-decoration: none;
+}
+
+/*Footer End
+/*Faculty*/
+.container1
+{
+width: auto; height: auto; padding-right: 15px; padding-left: 15px;
+}
+.container1 .title
+{
+font-family: arial; font-size: 25px; margin-left: 40px;
+
+
+padding: 0px 26% 0px 25%; text-align: center;
+/*width: auto; height: auto;
+font-family: arial; margin-left: 140px;*/
+}
+.container1 .con1
+{
+width: auto; height: auto; float: left;
+padding: 0px 150px 0px 150px;
+}
+.container1 .fac1
+{
+width: auto; height: auto; float: left;
+margin-top: 30px; background: transparent; margin-right: 5%;
+}
+.container1 .row
+{
+width: 300px; height: 600px; border: 1px solid;
+}
+.container1 .imge
+{
+width: 250px; height: 300px; float: left;
+padding-left: 25px; padding-right: 15px; padding-left: 15px;
+}
+.container1 img
+{
+display: block; max-width: 100%; height: 300px;
+
+
+margin-top: 15px; vertical-align: middle;
+}
+.container1 .facdet
+{
+width: auto; height: auto; padding-left: 0px;
+padding-right: 15px; padding-left: 15px;
+}
+.container1 .facdet h3
+{
+width: auto; height: auto; float: left; color: #3498db;
+padding-left: 10px; color: #555; margin-top: 5px; text-shadow: none;
+font-weight: normal;
+font-family: "Open Sans", Arial, sans-serif; font-size: 20px;
+line-height: 27px; margin-top: 20px; margin-bottom: 10px; font-family: inherit; font-weight: 500;
+line-height: 1.1; color: inherit;
+}
+.container .facdet table
+{
+width: 100%;
+max-width: 100%; margin-bottom: 20px;
+background-color: transparent; border-spacing: 0;
+border-collapse: collapse; display: table;
+border-collapse: separate; box-sizing: border-box;
+
+border-spacing: 2px; border-color: grey; margin: 0px;
+padding-bottom: 100px;
+}
+.container .facdet table tbody
+{
+display: table-row-group; vertical-align: middle;
+border-color: inherit; padding-bottom: 100px;
+}
+.container .facdet table tbody tr
+{
+padding-bottom: 100px; display: table-row;
+vertical-align: inherit; border-color: inherit;
+}
+.container .facdet table tbody tr td
+{
+padding-bottom: 100px; padding: 8px;
+line-height: 1.42857143; vertical-align: top;
+border-top: 1px solid #ddd;
+}
+
+/*faculty page end*/
+
+
+
+/*Subject start*/
+.title1
+{
+font-size: 20px; margin-left: 40px;
+padding: 0px 50px 0px 50px; text-align: center;
+}
+/*Subject End*/
+
+/*Facilities Start*/
+
+
+.container1
+{
+width: auto; height: auto;
+padding: 0px 150px 0px 150px;
+}
+.container1 .title
+{
+font-family: arial; font-size: 25px; margin-left:  40px;
+padding: 0px 26% 0px 25%; text-align: center;
+}
+.container1 .detail1 img
+{
+width: auto; height: auto; float: left;
+margin-right: 20px;
+}
+.container1 .detail1
+{
+width: auto; height: auto; float: left;
+font-size: 15px; text-align: justify; font-family: arial;
+margin-bottom: 15px;
+}
+.container1 .detail2 img
+{
+width: auto; height: auto; float: left;
+margin-right: 20px;
+}
+.container1 .detail2
+{
+width: auto; height: auto; float: left;
+
+
+font-size: 15px; text-align: justify; font-family: arial;
+margin-bottom: 15px;
+}
+/*index*/
+.nb{
+ 
+
+ 
+width: 1150px; height: 300px; float: left;
+
+
+
+}
+.left1
+{
+
+
+width: 35%; height: 200px; float: left;
+
+
+}
+.left2
+{
+
+width: auto; height: 200px; float: left;
+ 
+
+
+}
+
+
+.left2 img
+{
+width: 300px; height: 200px; float: left;
+margin-left: 15px; position: relative;
+}
